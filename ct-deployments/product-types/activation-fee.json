@@ -1,0 +1,51 @@
+{
+  "attributes": [
+    {
+      "attributeConstraint": "None",
+      "inputHint": "SingleLine",
+      "isRequired": false,
+      "isSearchable": true,
+      "label": {
+        "en": "Csn"
+      },
+      "name": "csn",
+      "type": {
+        "name": "text"
+      }
+    },
+    {
+      "attributeConstraint": "None",
+      "inputHint": "SingleLine",
+      "isRequired": false,
+      "isSearchable": true,
+      "label": {
+        "en": "Fee Type"
+      },
+      "name": "fee-type",
+      "type": {
+        "name": "enum",
+        "values": [
+          {
+            "key": "Activation",
+            "label": "Activation"
+          },
+          {
+            "key": "PrepaidDataActivation",
+            "label": "Prepaid Data Activation"
+          },
+          {
+            "key": "PrepaidReplenishment",
+            "label": "Prepaid Replenishment"
+          },
+          {
+            "key": "Deposit",
+            "label": "Deposit"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Product type for ATG activationFee",
+  "key": "activation-fee",
+  "name": "Activation Fee"
+}
