@@ -1,0 +1,22 @@
+{
+  "container": "atg-event",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG event custom object",
+    "fields": {
+      "date_stamp": {
+        "description": "Property stored in Custom Object 'event'",
+        "type": "custom_object_field"
+      },
+      "eventCodeId": {
+        "description": "Property stored in Custom Object 'event'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'event'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Event"
+  }
+}

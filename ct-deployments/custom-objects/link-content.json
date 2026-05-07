@@ -1,0 +1,38 @@
+{
+  "container": "atg-link-content",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG linkContent custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "linkText": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "linkURL": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "parentFolder": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "text": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      },
+      "url": {
+        "description": "Property stored in Custom Object 'link-content'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Link Content"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "container": "atg-external-commerce-item-data",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG externalCommerceItemData custom object",
+    "fields": {
+      "name": {
+        "description": "Property stored in Custom Object 'external-commerce-item-data'",
+        "type": "custom_object_field"
+      },
+      "values": {
+        "description": "Property stored in Custom Object 'external-commerce-item-data'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "External Commerce Item Data"
+  }
+}

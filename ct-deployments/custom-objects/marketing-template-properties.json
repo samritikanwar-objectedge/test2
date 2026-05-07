@@ -1,0 +1,42 @@
+{
+  "container": "atg-marketing-template-properties",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG marketingTemplateProperties custom object",
+    "fields": {
+      "bottomContentLeft": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "bottomContentMiddle": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "bottomContentRight": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "header1Text": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "header2Text": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "mainDisplay": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      },
+      "product": {
+        "description": "Property stored in Custom Object 'marketing-template-properties'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Marketing Template Properties"
+  }
+}

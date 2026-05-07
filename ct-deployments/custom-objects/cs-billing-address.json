@@ -1,0 +1,86 @@
+{
+  "container": "atg-cs-billing-address",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csBillingAddress custom object",
+    "fields": {
+      "address1": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "address2": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "address3": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "city": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "companyName": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "country": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "county": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "email": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "faxNumber": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "firstName": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "jobTitle": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "lastName": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "middleName": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "phoneNumber": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "postalCode": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "prefix": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "stateAddress": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "suffix": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'cs-billing-address'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs Billing Address"
+  }
+}

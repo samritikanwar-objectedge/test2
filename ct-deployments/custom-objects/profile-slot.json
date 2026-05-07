@@ -1,0 +1,34 @@
+{
+  "container": "atg-profile-slot",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG profileSlot custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      },
+      "offset": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      },
+      "slotItemPriorities": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      },
+      "slotItems": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      },
+      "slotName": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      },
+      "user": {
+        "description": "Property stored in Custom Object 'profile-slot'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Profile Slot"
+  }
+}

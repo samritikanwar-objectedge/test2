@@ -1,0 +1,18 @@
+{
+  "container": "atg-configurable-sub-sku-commerce-item",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG configurableSubSkuCommerceItem custom object",
+    "fields": {
+      "configurablePropertyId": {
+        "description": "Property stored in Custom Object 'configurable-sub-sku-commerce-item'",
+        "type": "custom_object_field"
+      },
+      "configurationOptionId": {
+        "description": "Property stored in Custom Object 'configurable-sub-sku-commerce-item'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Configurable Sub Sku Commerce Item"
+  }
+}

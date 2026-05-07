@@ -1,0 +1,62 @@
+{
+  "container": "atg-scheduled-order",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG scheduledOrder custom object",
+    "fields": {
+      "clonedOrders": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "createDate": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "endDate": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "lastError": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "nextScheduledRun": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "schedule": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "siteId": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "startDate": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "templateOrderId": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'scheduled-order'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Scheduled Order"
+  }
+}

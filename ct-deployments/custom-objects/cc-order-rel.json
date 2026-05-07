@@ -1,0 +1,22 @@
+{
+  "container": "atg-cc-order-rel",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG ccOrderRel custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'cc-order-rel'",
+        "type": "custom_object_field"
+      },
+      "costCenter": {
+        "description": "Property stored in Custom Object 'cc-order-rel'",
+        "type": "custom_object_field"
+      },
+      "orderRef": {
+        "description": "Property stored in Custom Object 'cc-order-rel'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cc Order Rel"
+  }
+}

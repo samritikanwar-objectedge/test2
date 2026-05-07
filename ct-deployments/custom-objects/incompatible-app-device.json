@@ -1,0 +1,26 @@
+{
+  "container": "atg-incompatible-app-device",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG incompatibleAppDevice custom object",
+    "fields": {
+      "app": {
+        "description": "Property stored in Custom Object 'incompatible-app-device'",
+        "type": "custom_object_field"
+      },
+      "appProduct": {
+        "description": "Property stored in Custom Object 'incompatible-app-device'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'incompatible-app-device'",
+        "type": "custom_object_field"
+      },
+      "phone": {
+        "description": "Property stored in Custom Object 'incompatible-app-device'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Incompatible App Device"
+  }
+}

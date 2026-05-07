@@ -1,0 +1,66 @@
+{
+  "container": "atg-item-price-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG itemPriceInfo custom object",
+    "fields": {
+      "currentPriceDetails": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "discountable": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "flatPrice": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "listPrice": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "monthlyPrice": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "onSale": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "orderDiscountShare": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "priceList": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityAsQualifier": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityDiscounted": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFractionAsQualifier": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFractionDiscounted": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "rawTotalPrice": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      },
+      "salePrice": {
+        "description": "Property stored in Custom Object 'item-price-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Item Price Info"
+  }
+}

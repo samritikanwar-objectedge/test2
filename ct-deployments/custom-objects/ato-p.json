@@ -1,0 +1,22 @@
+{
+  "container": "atg-ato-p",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG AtoP custom object",
+    "fields": {
+      "answerChoices": {
+        "description": "Property stored in Custom Object 'ato-p'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'ato-p'",
+        "type": "custom_object_field"
+      },
+      "products": {
+        "description": "Property stored in Custom Object 'ato-p'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Ato P"
+  }
+}

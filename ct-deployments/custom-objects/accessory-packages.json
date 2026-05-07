@@ -1,0 +1,26 @@
+{
+  "container": "atg-accessory-packages",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG accessoryPackages custom object",
+    "fields": {
+      "accessories": {
+        "description": "Property stored in Custom Object 'accessory-packages'",
+        "type": "custom_object_field"
+      },
+      "packageId": {
+        "description": "Property stored in Custom Object 'accessory-packages'",
+        "type": "custom_object_field"
+      },
+      "packageImage": {
+        "description": "Property stored in Custom Object 'accessory-packages'",
+        "type": "custom_object_field"
+      },
+      "packageName": {
+        "description": "Property stored in Custom Object 'accessory-packages'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Accessory Packages"
+  }
+}

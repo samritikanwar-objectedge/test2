@@ -1,0 +1,58 @@
+{
+  "container": "atg-appeasement",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appeasement custom object",
+    "fields": {
+      "agentId": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "appeasementAmount": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "appeasementId": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "appeasementRefunds": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "comments": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "order": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "orderId": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "originOfAppeasement": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "processed": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "reasonCode": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'appeasement'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Appeasement"
+  }
+}

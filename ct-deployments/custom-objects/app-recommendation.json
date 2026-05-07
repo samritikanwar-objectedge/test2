@@ -1,0 +1,26 @@
+{
+  "container": "atg-app-recommendation",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appRecommendation custom object",
+    "fields": {
+      "appProduct": {
+        "description": "Property stored in Custom Object 'app-recommendation'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'app-recommendation'",
+        "type": "custom_object_field"
+      },
+      "marketSegment": {
+        "description": "Property stored in Custom Object 'app-recommendation'",
+        "type": "custom_object_field"
+      },
+      "priority": {
+        "description": "Property stored in Custom Object 'app-recommendation'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "App Recommendation"
+  }
+}

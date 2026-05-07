@@ -1,0 +1,34 @@
+{
+  "container": "atg-posted-check-payment",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG postedCheckPayment custom object",
+    "fields": {
+      "accountNumber": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      },
+      "bankAccountNumber": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      },
+      "postAmount": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      },
+      "postingDate": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      },
+      "routingNumber": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'posted-check-payment'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Posted Check Payment"
+  }
+}

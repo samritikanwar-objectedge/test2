@@ -1,0 +1,54 @@
+{
+  "container": "atg-detailed-item-price-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG detailedItemPriceInfo custom object",
+    "fields": {
+      "highBound": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "highBoundWithFraction": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "lowBound": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "lowBoundWithFraction": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "orderDiscountShare": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "orderManualAdjustmentShare": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantity": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityAsQualifier": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFraction": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFractionAsQualifier": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      },
+      "tax": {
+        "description": "Property stored in Custom Object 'detailed-item-price-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Detailed Item Price Info"
+  }
+}

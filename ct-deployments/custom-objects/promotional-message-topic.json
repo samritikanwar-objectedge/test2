@@ -1,0 +1,26 @@
+{
+  "container": "atg-promotional-message-topic",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG promotionalMessageTopic custom object",
+    "fields": {
+      "active": {
+        "description": "Property stored in Custom Object 'promotional-message-topic'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'promotional-message-topic'",
+        "type": "custom_object_field"
+      },
+      "keyCode": {
+        "description": "Property stored in Custom Object 'promotional-message-topic'",
+        "type": "custom_object_field"
+      },
+      "longDescription": {
+        "description": "Property stored in Custom Object 'promotional-message-topic'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Promotional Message Topic"
+  }
+}

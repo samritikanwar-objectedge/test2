@@ -1,0 +1,58 @@
+{
+  "container": "atg-credit-check-response",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG creditCheckResponse custom object",
+    "fields": {
+      "activationItemId": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "activationType": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "allowActivation": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "approvalStatus": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "creditClass": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "creditImposed": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "creditRefNum": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "creditScore": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "depositAmount": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "depositItemId": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "maxSubscriptions": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'credit-check-response'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Credit Check Response"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "container": "atg-credit-card-status",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG creditCardStatus custom object",
+    "fields": {
+      "authorizationExpiration": {
+        "description": "Property stored in Custom Object 'credit-card-status'",
+        "type": "custom_object_field"
+      },
+      "avsCode": {
+        "description": "Property stored in Custom Object 'credit-card-status'",
+        "type": "custom_object_field"
+      },
+      "avsDescriptiveResult": {
+        "description": "Property stored in Custom Object 'credit-card-status'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Credit Card Status"
+  }
+}

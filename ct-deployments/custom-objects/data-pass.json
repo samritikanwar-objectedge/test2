@@ -1,0 +1,82 @@
+{
+  "container": "atg-data-pass",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG dataPass custom object",
+    "fields": {
+      "activeMinutes": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "allocatedMB": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "allocatedMinutes": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "aocOnly": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "brand": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "carrier": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "isTablet": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "manufacturer": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "offerType": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "openetPrice": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "passType": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "relatedDeviceTypes": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "relatedFeatures": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "relatedPlans": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "stackable": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "topUpAmount": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      },
+      "topUpDiscountCode": {
+        "description": "Property stored in Custom Object 'data-pass'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Data Pass"
+  }
+}

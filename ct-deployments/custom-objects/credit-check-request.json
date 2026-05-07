@@ -1,0 +1,106 @@
+{
+  "container": "atg-credit-check-request",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG creditCheckRequest custom object",
+    "fields": {
+      "aptNum": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "city": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "csa": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "csaName": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "custId": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "dayOfBirth": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "dayPhone": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "employer": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "firstName": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "gender": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "houseNumber": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "lastName": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "middleName": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "monthOfBirth": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "occupation": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "salesId": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "ssn": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "streetName": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "yearOfBirth": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "yearsAtAddress": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "yearsEmployed": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      },
+      "zip": {
+        "description": "Property stored in Custom Object 'credit-check-request'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Credit Check Request"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "container": "atg-preloaded-software",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG preloadedSoftware custom object",
+    "fields": {
+      "bodyText": {
+        "description": "Property stored in Custom Object 'preloaded-software'",
+        "type": "custom_object_field"
+      },
+      "header": {
+        "description": "Property stored in Custom Object 'preloaded-software'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'preloaded-software'",
+        "type": "custom_object_field"
+      },
+      "imagePath": {
+        "description": "Property stored in Custom Object 'preloaded-software'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Preloaded Software"
+  }
+}

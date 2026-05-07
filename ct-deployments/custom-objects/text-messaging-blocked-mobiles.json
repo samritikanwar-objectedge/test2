@@ -1,0 +1,14 @@
+{
+  "container": "atg-text-messaging-blocked-mobiles",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG textMessagingBlockedMobiles custom object",
+    "fields": {
+      "mobileNumber": {
+        "description": "Property stored in Custom Object 'text-messaging-blocked-mobiles'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Text Messaging Blocked Mobiles"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "container": "atg-click-and-learn-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG clickAndLearnGroup custom object",
+    "fields": {
+      "csn": {
+        "description": "Property stored in Custom Object 'click-and-learn-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Click And Learn Group"
+  }
+}

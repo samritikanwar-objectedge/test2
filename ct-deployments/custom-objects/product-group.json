@@ -1,0 +1,26 @@
+{
+  "container": "atg-product-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG productGroup custom object",
+    "fields": {
+      "code": {
+        "description": "Property stored in Custom Object 'product-group'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'product-group'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'product-group'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'product-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Product Group"
+  }
+}

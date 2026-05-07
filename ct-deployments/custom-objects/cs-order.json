@@ -1,0 +1,58 @@
+{
+  "container": "atg-cs-order",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csOrder custom object",
+    "fields": {
+      "acceptPromotionalEmail": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "accountNumber": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "autoPayAgreement": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "bankAccountAgreement": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "creditCheckRequest": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "creditCheckResponse": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "csBillingAddress": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "csOrderNumber": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "customerServiceAgreement": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "deposit": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "paperlessBillingAgreement": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      },
+      "primarySubscriptionId": {
+        "description": "Property stored in Custom Object 'cs-order'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs Order"
+  }
+}

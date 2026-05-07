@@ -1,0 +1,46 @@
+{
+  "container": "atg-foreign-catalog",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG foreignCatalog custom object",
+    "fields": {
+      "baseURL": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "host": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "port": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "returnURL": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'foreign-catalog'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Foreign Catalog"
+  }
+}

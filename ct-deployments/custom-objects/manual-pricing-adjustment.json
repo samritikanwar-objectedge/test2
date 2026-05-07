@@ -1,0 +1,34 @@
+{
+  "container": "atg-manual-pricing-adjustment",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG manualPricingAdjustment custom object",
+    "fields": {
+      "adjustmentType": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "amount": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "notes": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "reasonCode": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'manual-pricing-adjustment'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Manual Pricing Adjustment"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "container": "atg-app-game-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appGameInfo custom object",
+    "fields": {
+      "gameClue": {
+        "description": "Property stored in Custom Object 'app-game-info'",
+        "type": "custom_object_field"
+      },
+      "gameImage": {
+        "description": "Property stored in Custom Object 'app-game-info'",
+        "type": "custom_object_field"
+      },
+      "gameTitle": {
+        "description": "Property stored in Custom Object 'app-game-info'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'app-game-info'",
+        "type": "custom_object_field"
+      },
+      "mobileApp": {
+        "description": "Property stored in Custom Object 'app-game-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "App Game Info"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "container": "atg-calendar-entry",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG calendarEntry custom object",
+    "fields": {
+      "detailsImages": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "detailsLinkText": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "detailsText": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "endDate": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "entryHeader": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "itemDate": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "leadingText": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "lob": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "location": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "redirectURL": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'calendar-entry'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Calendar Entry"
+  }
+}

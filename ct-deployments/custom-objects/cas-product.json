@@ -1,0 +1,18 @@
+{
+  "container": "atg-cas-product",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG casProduct custom object",
+    "fields": {
+      "manufacturer": {
+        "description": "Property stored in Custom Object 'cas-product'",
+        "type": "custom_object_field"
+      },
+      "svcNm": {
+        "description": "Property stored in Custom Object 'cas-product'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cas Product"
+  }
+}

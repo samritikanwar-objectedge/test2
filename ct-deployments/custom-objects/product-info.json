@@ -1,0 +1,30 @@
+{
+  "container": "atg-product-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG product-info custom object",
+    "fields": {
+      "catalog": {
+        "description": "Property stored in Custom Object 'product-info'",
+        "type": "custom_object_field"
+      },
+      "catalogsRelatedProducts": {
+        "description": "Property stored in Custom Object 'product-info'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'product-info'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'product-info'",
+        "type": "custom_object_field"
+      },
+      "productItem": {
+        "description": "Property stored in Custom Object 'product-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Product Info"
+  }
+}

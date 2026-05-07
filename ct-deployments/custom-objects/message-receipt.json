@@ -1,0 +1,14 @@
+{
+  "container": "atg-message-receipt",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG messageReceipt custom object",
+    "fields": {
+      "receiptType": {
+        "description": "Property stored in Custom Object 'message-receipt'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Message Receipt"
+  }
+}

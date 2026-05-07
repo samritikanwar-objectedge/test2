@@ -1,0 +1,30 @@
+{
+  "container": "atg-carrier-type",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG carrierType custom object",
+    "fields": {
+      "carrierNameUiccCsn": {
+        "description": "Property stored in Custom Object 'carrier-type'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'carrier-type'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'carrier-type'",
+        "type": "custom_object_field"
+      },
+      "uiccCsn": {
+        "description": "Property stored in Custom Object 'carrier-type'",
+        "type": "custom_object_field"
+      },
+      "uiccType": {
+        "description": "Property stored in Custom Object 'carrier-type'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Carrier Type"
+  }
+}

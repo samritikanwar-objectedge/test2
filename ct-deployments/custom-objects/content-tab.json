@@ -1,0 +1,30 @@
+{
+  "container": "atg-content-tab",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG contentTab custom object",
+    "fields": {
+      "displayName": {
+        "description": "Property stored in Custom Object 'content-tab'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'content-tab'",
+        "type": "custom_object_field"
+      },
+      "template": {
+        "description": "Property stored in Custom Object 'content-tab'",
+        "type": "custom_object_field"
+      },
+      "title1": {
+        "description": "Property stored in Custom Object 'content-tab'",
+        "type": "custom_object_field"
+      },
+      "title2": {
+        "description": "Property stored in Custom Object 'content-tab'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Content Tab"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "container": "atg-appeasement-reasons",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appeasementReasons custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'appeasement-reasons'",
+        "type": "custom_object_field"
+      },
+      "readableDescription": {
+        "description": "Property stored in Custom Object 'appeasement-reasons'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Appeasement Reasons"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "container": "atg-organization",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG organization custom object",
+    "fields": {
+      "allApprovers": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "allCostCenters": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "allCreditCards": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "allMembers": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "allPreferredVendors": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "allSecondaryAddresses": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "ancestorOrganizations": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "approvalRequired": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "approvers": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "billingAddress": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "childOrganizations": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "contacts": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "contract": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "costCenters": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "creditCards": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "customerType": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "defaultCostCenter": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "defaultCreditCard": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedApprovalRequired": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedBillingAddress": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedContract": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedCustomerType": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedDefaultCostCenter": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedDefaultCreditCard": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedOrderPriceLimit": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "derivedShippingAddress": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "dunsNumber": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "members": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "orderPriceLimit": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "parentOrganization": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "preferredVendors": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "relativeRoles": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "roles": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "secondaryAddresses": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "secondaryMembers": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "shippingAddress": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'organization'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Organization"
+  }
+}

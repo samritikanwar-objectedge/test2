@@ -1,0 +1,38 @@
+{
+  "container": "atg-out-of-stock-notification",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG OutOfStockNotification custom object",
+    "fields": {
+      "email": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "entered": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "firstName": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "lastName": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "notified": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "notifyType": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      },
+      "productId": {
+        "description": "Property stored in Custom Object 'out-of-stock-notification'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Out Of Stock Notification"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "container": "atg-filterable-product-feature",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG filterableProductFeature custom object",
+    "fields": {
+      "cssClassID": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "detailIcon": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "featureDescription": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "featureName": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "filterSortOrder": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "largeListIcon": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "listIcon": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "productFeatures": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "productType": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      },
+      "show_filter": {
+        "description": "Property stored in Custom Object 'filterable-product-feature'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Filterable Product Feature"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "container": "atg-bark-feature-plan",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG barkFeaturePlan custom object",
+    "fields": {
+      "BARK_FEATURE_ID": {
+        "description": "Property stored in Custom Object 'bark-feature-plan'",
+        "type": "custom_object_field"
+      },
+      "barkPlanName": {
+        "description": "Property stored in Custom Object 'bark-feature-plan'",
+        "type": "custom_object_field"
+      },
+      "feature": {
+        "description": "Property stored in Custom Object 'bark-feature-plan'",
+        "type": "custom_object_field"
+      },
+      "isPrepaid": {
+        "description": "Property stored in Custom Object 'bark-feature-plan'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Bark Feature Plan"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "container": "atg-generic-content",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG genericContent custom object",
+    "fields": {
+      "displayName": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      },
+      "overrideText": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      },
+      "parentFolder": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      },
+      "text": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'generic-content'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Generic Content"
+  }
+}

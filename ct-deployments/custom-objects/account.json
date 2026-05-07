@@ -1,0 +1,54 @@
+{
+  "container": "atg-account",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG account custom object",
+    "fields": {
+      "accountNumber": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "companyName": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "companyUrl": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "contactEmail": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "contactNumber": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "hiddenProducts": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "restrictAccessories": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "restrictFeatures": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "restrictPhones": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "restrictPlans": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      },
+      "visibleProducts": {
+        "description": "Property stored in Custom Object 'account'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Account"
+  }
+}

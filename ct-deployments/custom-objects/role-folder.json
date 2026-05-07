@@ -1,0 +1,14 @@
+{
+  "container": "atg-role-folder",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG roleFolder custom object",
+    "fields": {
+      "childItems": {
+        "description": "Property stored in Custom Object 'role-folder'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Role Folder"
+  }
+}

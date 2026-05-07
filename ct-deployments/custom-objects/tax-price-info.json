@@ -1,0 +1,50 @@
+{
+  "container": "atg-tax-price-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG taxPriceInfo custom object",
+    "fields": {
+      "cityTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "countryTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "countyTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "csTaxDetails": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "isTaxIncluded": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "miscTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "miscTaxInfo": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "shippingItemsTaxPriceInfos": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "stateTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      },
+      "valueAddedTax": {
+        "description": "Property stored in Custom Object 'tax-price-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Tax Price Info"
+  }
+}

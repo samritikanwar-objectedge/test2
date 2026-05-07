@@ -1,0 +1,26 @@
+{
+  "container": "atg-plan-feature-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG planFeatureGroup custom object",
+    "fields": {
+      "features": {
+        "description": "Property stored in Custom Object 'plan-feature-group'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'plan-feature-group'",
+        "type": "custom_object_field"
+      },
+      "passiveHighlightHtml": {
+        "description": "Property stored in Custom Object 'plan-feature-group'",
+        "type": "custom_object_field"
+      },
+      "plan": {
+        "description": "Property stored in Custom Object 'plan-feature-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Plan Feature Group"
+  }
+}

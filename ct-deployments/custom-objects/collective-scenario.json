@@ -1,0 +1,34 @@
+{
+  "container": "atg-collective-scenario",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG collectiveScenario custom object",
+    "fields": {
+      "creatorId": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      },
+      "modificationTime": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      },
+      "segmentName": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'collective-scenario'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Collective Scenario"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "container": "atg-organizational-role",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG organizationalRole custom object",
+    "fields": {
+      "function": {
+        "description": "Property stored in Custom Object 'organizational-role'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'organizational-role'",
+        "type": "custom_object_field"
+      },
+      "relativeTo": {
+        "description": "Property stored in Custom Object 'organizational-role'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Organizational Role"
+  }
+}

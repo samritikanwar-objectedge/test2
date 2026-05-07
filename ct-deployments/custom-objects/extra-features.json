@@ -1,0 +1,30 @@
+{
+  "container": "atg-extra-features",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG extraFeatures custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'extra-features'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'extra-features'",
+        "type": "custom_object_field"
+      },
+      "featureImageURL": {
+        "description": "Property stored in Custom Object 'extra-features'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'extra-features'",
+        "type": "custom_object_field"
+      },
+      "summary": {
+        "description": "Property stored in Custom Object 'extra-features'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Extra Features"
+  }
+}

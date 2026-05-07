@@ -1,0 +1,18 @@
+{
+  "container": "atg-sub-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG sub_Group custom object",
+    "fields": {
+      "displayName": {
+        "description": "Property stored in Custom Object 'sub-group'",
+        "type": "custom_object_field"
+      },
+      "subGroupId": {
+        "description": "Property stored in Custom Object 'sub-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Sub  Group"
+  }
+}

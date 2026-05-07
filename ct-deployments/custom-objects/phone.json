@@ -1,0 +1,326 @@
+{
+  "container": "atg-phone",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phone custom object",
+    "fields": {
+      "ChargingInterfaces": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "aponsale": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "autoAddedFeatures": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "batteryType": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "cameraResolution": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "cameraType": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "cameraVideoDetails": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "carrier": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "color": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "commercialVideos": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "contentTabs": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "detailViewsLarge": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "detailViewsThumbs": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "dimensions": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "discoveryPlatform": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "esimDiscovery": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "esimProfile": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "etraceRequirement": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "filterableFeatures": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "filterablePhoneCategories": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "flashClickLearnMovies": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "flashMovies": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "formFactor": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "formFactorCode": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "frequencies": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "galleryImages": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "has5GCapable": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasBREW": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasBluetooth": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasCamera": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasEmail": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasHearingAid": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasMusicPlayer": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasPushToTalk": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasRadio": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasRebateOnNew": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasRebateOnUpgrade": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasSpeakerphone": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasVideo": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasVoiceCommands": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "hasWap": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "howTos": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "includedAccessories": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "isOpenMarketDevice": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "manualURL": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "manufacturer": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "networkType": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "noPocPrice": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "onSale": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "pponsale": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "preloadedSoftware": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "prepaidPrice": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "priceDropDescription": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "protectionPlan": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "purchasableWithoutService": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "rebateAmount": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "rebatePrepaidAmount": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "rebateURL": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "recommendedPlans": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "regFeature": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "relatedAccessories": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "relatedColorDevices": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "relatedDevices": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "relatedFeatures": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "relatedStorageDevices": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "showScratch": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "similarPhones": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "specialFeatures": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "specs": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "standbyTime": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "storage": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "talkTime": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "thumbnailImage": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "topFeature": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "transparentLargeImage": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "transparentSmallImage": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "transparentThumbnailImage": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "voiceOnlyAllowed": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      },
+      "weight": {
+        "description": "Property stored in Custom Object 'phone'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "container": "atg-plan-service-period",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG planServicePeriod custom object",
+    "fields": {
+      "alterDate": {
+        "description": "Property stored in Custom Object 'plan-service-period'",
+        "type": "custom_object_field"
+      },
+      "alterUserId": {
+        "description": "Property stored in Custom Object 'plan-service-period'",
+        "type": "custom_object_field"
+      },
+      "createDate": {
+        "description": "Property stored in Custom Object 'plan-service-period'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'plan-service-period'",
+        "type": "custom_object_field"
+      },
+      "servicePeriod": {
+        "description": "Property stored in Custom Object 'plan-service-period'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Plan Service Period"
+  }
+}

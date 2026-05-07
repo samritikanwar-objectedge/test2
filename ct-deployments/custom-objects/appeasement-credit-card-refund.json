@@ -1,0 +1,14 @@
+{
+  "container": "atg-appeasement-credit-card-refund",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appeasementCreditCardRefund custom object",
+    "fields": {
+      "paymentGroupId": {
+        "description": "Property stored in Custom Object 'appeasement-credit-card-refund'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Appeasement Credit Card Refund"
+  }
+}

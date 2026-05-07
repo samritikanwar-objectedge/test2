@@ -1,0 +1,26 @@
+{
+  "container": "atg-order-line",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG orderLine custom object",
+    "fields": {
+      "OrderId": {
+        "description": "Property stored in Custom Object 'order-line'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'order-line'",
+        "type": "custom_object_field"
+      },
+      "quantity": {
+        "description": "Property stored in Custom Object 'order-line'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'order-line'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Order Line"
+  }
+}

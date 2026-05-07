@@ -1,0 +1,26 @@
+{
+  "container": "atg-relationship",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG relationship custom object",
+    "fields": {
+      "order": {
+        "description": "Property stored in Custom Object 'relationship'",
+        "type": "custom_object_field"
+      },
+      "relationshipClassType": {
+        "description": "Property stored in Custom Object 'relationship'",
+        "type": "custom_object_field"
+      },
+      "relationshipType": {
+        "description": "Property stored in Custom Object 'relationship'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'relationship'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Relationship"
+  }
+}

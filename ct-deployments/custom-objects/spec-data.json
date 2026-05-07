@@ -1,0 +1,58 @@
+{
+  "container": "atg-spec-data",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG specData custom object",
+    "fields": {
+      "doesntHaveSpecText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "equalsText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "greaterThanText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "hasSpecText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "labelText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "lessThanText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "sortOrder": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "specType": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "tooltipHeader": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "tooltipImage": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      },
+      "tooltipText": {
+        "description": "Property stored in Custom Object 'spec-data'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Spec Data"
+  }
+}

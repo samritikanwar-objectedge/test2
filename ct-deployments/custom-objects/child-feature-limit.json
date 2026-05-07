@@ -1,0 +1,26 @@
+{
+  "container": "atg-child-feature-limit",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG childFeatureLimit custom object",
+    "fields": {
+      "childFeature": {
+        "description": "Property stored in Custom Object 'child-feature-limit'",
+        "type": "custom_object_field"
+      },
+      "childFeatureLimit": {
+        "description": "Property stored in Custom Object 'child-feature-limit'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'child-feature-limit'",
+        "type": "custom_object_field"
+      },
+      "parentFeature": {
+        "description": "Property stored in Custom Object 'child-feature-limit'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Child Feature Limit"
+  }
+}

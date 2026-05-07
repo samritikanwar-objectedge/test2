@@ -1,0 +1,82 @@
+{
+  "container": "atg-cs-dummy-credit-card",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csDummyCreditCard custom object",
+    "fields": {
+      "accountId": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "addressLine1": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "addressLine2": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "addressLine3": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "city": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "creditCardKhash": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "creditCardNumber": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "creditCardType": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "expirationMonth": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "expirationYear": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "firstName": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "lastName": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "purposeType": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "repId": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "subscriptionId": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      },
+      "zipCode": {
+        "description": "Property stored in Custom Object 'cs-dummy-credit-card'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs Dummy Credit Card"
+  }
+}

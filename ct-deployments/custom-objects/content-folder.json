@@ -1,0 +1,18 @@
+{
+  "container": "atg-content-folder",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG contentFolder custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'content-folder'",
+        "type": "custom_object_field"
+      },
+      "parentFolder": {
+        "description": "Property stored in Custom Object 'content-folder'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Content Folder"
+  }
+}

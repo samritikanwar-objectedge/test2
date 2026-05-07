@@ -1,0 +1,42 @@
+{
+  "container": "atg-flash-movie",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG flashMovie custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "displayImage": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "duration": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "externalMediaUrl": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "height": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "media": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      },
+      "width": {
+        "description": "Property stored in Custom Object 'flash-movie'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Flash Movie"
+  }
+}

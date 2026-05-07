@@ -1,0 +1,26 @@
+{
+  "container": "atg-child-plan-limit",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG childPlanLimit custom object",
+    "fields": {
+      "childPlan": {
+        "description": "Property stored in Custom Object 'child-plan-limit'",
+        "type": "custom_object_field"
+      },
+      "childPlanLimit": {
+        "description": "Property stored in Custom Object 'child-plan-limit'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'child-plan-limit'",
+        "type": "custom_object_field"
+      },
+      "parentPlan": {
+        "description": "Property stored in Custom Object 'child-plan-limit'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Child Plan Limit"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "container": "atg-terms-conds-body",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG termsCondsBody custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'terms-conds-body'",
+        "type": "custom_object_field"
+      },
+      "isMaterialChange": {
+        "description": "Property stored in Custom Object 'terms-conds-body'",
+        "type": "custom_object_field"
+      },
+      "revisionBody": {
+        "description": "Property stored in Custom Object 'terms-conds-body'",
+        "type": "custom_object_field"
+      },
+      "revisionDate": {
+        "description": "Property stored in Custom Object 'terms-conds-body'",
+        "type": "custom_object_field"
+      },
+      "revisionName": {
+        "description": "Property stored in Custom Object 'terms-conds-body'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Terms Conds Body"
+  }
+}

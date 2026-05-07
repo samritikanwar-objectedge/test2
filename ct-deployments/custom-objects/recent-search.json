@@ -1,0 +1,26 @@
+{
+  "container": "atg-recent-search",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG recentSearch custom object",
+    "fields": {
+      "recentSearchItem": {
+        "description": "Property stored in Custom Object 'recent-search'",
+        "type": "custom_object_field"
+      },
+      "timeStamp": {
+        "description": "Property stored in Custom Object 'recent-search'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'recent-search'",
+        "type": "custom_object_field"
+      },
+      "userSearchId": {
+        "description": "Property stored in Custom Object 'recent-search'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Recent Search"
+  }
+}

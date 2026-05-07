@@ -1,0 +1,34 @@
+{
+  "container": "atg-phone-accessory-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phoneAccessoryGroup custom object",
+    "fields": {
+      "accessories": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      },
+      "highlightHtml": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      },
+      "highlightImage": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      },
+      "passiveHighlightHtml": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      },
+      "phone": {
+        "description": "Property stored in Custom Object 'phone-accessory-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone Accessory Group"
+  }
+}

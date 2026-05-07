@@ -1,0 +1,46 @@
+{
+  "container": "atg-sku-link",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG sku-link custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "endDate": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "item": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "quantity": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFraction": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      },
+      "startDate": {
+        "description": "Property stored in Custom Object 'sku-link'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Sku Link"
+  }
+}

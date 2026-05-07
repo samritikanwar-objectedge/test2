@@ -1,0 +1,26 @@
+{
+  "container": "atg-brew-handsets",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG brewHandsets custom object",
+    "fields": {
+      "dataFlag": {
+        "description": "Property stored in Custom Object 'brew-handsets'",
+        "type": "custom_object_field"
+      },
+      "handset": {
+        "description": "Property stored in Custom Object 'brew-handsets'",
+        "type": "custom_object_field"
+      },
+      "handsetName": {
+        "description": "Property stored in Custom Object 'brew-handsets'",
+        "type": "custom_object_field"
+      },
+      "pictureMessagingFlag": {
+        "description": "Property stored in Custom Object 'brew-handsets'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Brew Handsets"
+  }
+}

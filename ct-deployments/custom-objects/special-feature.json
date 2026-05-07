@@ -1,0 +1,26 @@
+{
+  "container": "atg-special-feature",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG specialFeature custom object",
+    "fields": {
+      "bodyText": {
+        "description": "Property stored in Custom Object 'special-feature'",
+        "type": "custom_object_field"
+      },
+      "header": {
+        "description": "Property stored in Custom Object 'special-feature'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'special-feature'",
+        "type": "custom_object_field"
+      },
+      "imagePath": {
+        "description": "Property stored in Custom Object 'special-feature'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Special Feature"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "container": "atg-marker",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG marker custom object",
+    "fields": {
+      "data": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "duplicationMode": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "key": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "owner": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      },
+      "value": {
+        "description": "Property stored in Custom Object 'marker'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Marker"
+  }
+}

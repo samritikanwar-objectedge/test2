@@ -1,0 +1,30 @@
+{
+  "container": "atg-cost-center",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG costCenter custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'cost-center'",
+        "type": "custom_object_field"
+      },
+      "costCenterClassType": {
+        "description": "Property stored in Custom Object 'cost-center'",
+        "type": "custom_object_field"
+      },
+      "identifier": {
+        "description": "Property stored in Custom Object 'cost-center'",
+        "type": "custom_object_field"
+      },
+      "order": {
+        "description": "Property stored in Custom Object 'cost-center'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'cost-center'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cost Center"
+  }
+}

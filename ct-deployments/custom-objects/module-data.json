@@ -1,0 +1,22 @@
+{
+  "container": "atg-module-data",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG moduleData custom object",
+    "fields": {
+      "associatedCatWithData": {
+        "description": "Property stored in Custom Object 'module-data'",
+        "type": "custom_object_field"
+      },
+      "associatedModWithData": {
+        "description": "Property stored in Custom Object 'module-data'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'module-data'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Module Data"
+  }
+}

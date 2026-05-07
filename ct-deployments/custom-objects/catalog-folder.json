@@ -1,0 +1,30 @@
+{
+  "container": "atg-catalog-folder",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG catalogFolder custom object",
+    "fields": {
+      "childItems": {
+        "description": "Property stored in Custom Object 'catalog-folder'",
+        "type": "custom_object_field"
+      },
+      "onlineSiteIds": {
+        "description": "Property stored in Custom Object 'catalog-folder'",
+        "type": "custom_object_field"
+      },
+      "siteGroupIds": {
+        "description": "Property stored in Custom Object 'catalog-folder'",
+        "type": "custom_object_field"
+      },
+      "siteIds": {
+        "description": "Property stored in Custom Object 'catalog-folder'",
+        "type": "custom_object_field"
+      },
+      "touchpointIds": {
+        "description": "Property stored in Custom Object 'catalog-folder'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Catalog Folder"
+  }
+}

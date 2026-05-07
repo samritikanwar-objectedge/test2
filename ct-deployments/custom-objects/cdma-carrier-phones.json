@@ -1,0 +1,18 @@
+{
+  "container": "atg-cdma-carrier-phones",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG cdmaCarrierPhones custom object",
+    "fields": {
+      "configPhoneId": {
+        "description": "Property stored in Custom Object 'cdma-carrier-phones'",
+        "type": "custom_object_field"
+      },
+      "phoneId": {
+        "description": "Property stored in Custom Object 'cdma-carrier-phones'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cdma Carrier Phones"
+  }
+}

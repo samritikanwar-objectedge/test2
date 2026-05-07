@@ -1,0 +1,46 @@
+{
+  "container": "atg-generic-folder",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG genericFolder custom object",
+    "fields": {
+      "childFolders": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "childItems": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "parent": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "parentFolders": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'generic-folder'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Generic Folder"
+  }
+}

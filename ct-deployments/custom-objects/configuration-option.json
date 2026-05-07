@@ -1,0 +1,38 @@
+{
+  "container": "atg-configuration-option",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG configurationOption custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "price": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "product": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      },
+      "sku": {
+        "description": "Property stored in Custom Object 'configuration-option'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Configuration Option"
+  }
+}

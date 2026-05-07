@@ -1,0 +1,34 @@
+{
+  "container": "atg-cs-new-order-sub-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csNewOrderSubInfo custom object",
+    "fields": {
+      "accessories": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      },
+      "features": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      },
+      "order": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      },
+      "phone": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      },
+      "plan": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      },
+      "seq": {
+        "description": "Property stored in Custom Object 'cs-new-order-sub-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs New Order Sub Info"
+  }
+}

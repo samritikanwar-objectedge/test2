@@ -1,0 +1,26 @@
+{
+  "container": "atg-category-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG category-info custom object",
+    "fields": {
+      "catalog": {
+        "description": "Property stored in Custom Object 'category-info'",
+        "type": "custom_object_field"
+      },
+      "categoryItem": {
+        "description": "Property stored in Custom Object 'category-info'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'category-info'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'category-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Category Info"
+  }
+}

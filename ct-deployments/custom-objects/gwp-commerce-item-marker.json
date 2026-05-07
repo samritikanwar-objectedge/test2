@@ -1,0 +1,70 @@
+{
+  "container": "atg-gwp-commerce-item-marker",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG gwpCommerceItemMarker custom object",
+    "fields": {
+      "automaticQuantity": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "automaticQuantityWithFraction": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "data": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "duplicationMode": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "key": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "owner": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "remainingQuantity": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "remainingQuantityWithFraction": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "selectedQuantity": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "selectedQuantityWithFraction": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "targetedQuantity": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "targetedQuantityWithFraction": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      },
+      "value": {
+        "description": "Property stored in Custom Object 'gwp-commerce-item-marker'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Gwp Commerce Item Marker"
+  }
+}

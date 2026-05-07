@@ -1,0 +1,18 @@
+{
+  "container": "atg-cs-dummy-user",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csDummyUser custom object",
+    "fields": {
+      "csDummyCreditCards": {
+        "description": "Property stored in Custom Object 'cs-dummy-user'",
+        "type": "custom_object_field"
+      },
+      "subscriptionId": {
+        "description": "Property stored in Custom Object 'cs-dummy-user'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs Dummy User"
+  }
+}

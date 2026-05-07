@@ -1,0 +1,18 @@
+{
+  "container": "atg-blocked-username",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG blockedUsername custom object",
+    "fields": {
+      "lockedTime": {
+        "description": "Property stored in Custom Object 'blocked-username'",
+        "type": "custom_object_field"
+      },
+      "username": {
+        "description": "Property stored in Custom Object 'blocked-username'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Blocked Username"
+  }
+}

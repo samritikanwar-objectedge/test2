@@ -1,0 +1,18 @@
+{
+  "container": "atg-mail-server",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG mailServer custom object",
+    "fields": {
+      "lastUpdated": {
+        "description": "Property stored in Custom Object 'mail-server'",
+        "type": "custom_object_field"
+      },
+      "uniqServerId": {
+        "description": "Property stored in Custom Object 'mail-server'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Mail Server"
+  }
+}

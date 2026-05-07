@@ -1,0 +1,22 @@
+{
+  "container": "atg-phone-color",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phoneColor custom object",
+    "fields": {
+      "phoneColorCssClass": {
+        "description": "Property stored in Custom Object 'phone-color'",
+        "type": "custom_object_field"
+      },
+      "phoneColorHex": {
+        "description": "Property stored in Custom Object 'phone-color'",
+        "type": "custom_object_field"
+      },
+      "phoneColorName": {
+        "description": "Property stored in Custom Object 'phone-color'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone Color"
+  }
+}

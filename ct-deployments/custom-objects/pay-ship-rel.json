@@ -1,0 +1,22 @@
+{
+  "container": "atg-pay-ship-rel",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG payShipRel custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'pay-ship-rel'",
+        "type": "custom_object_field"
+      },
+      "paymentGroup": {
+        "description": "Property stored in Custom Object 'pay-ship-rel'",
+        "type": "custom_object_field"
+      },
+      "shippingGroup": {
+        "description": "Property stored in Custom Object 'pay-ship-rel'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Pay Ship Rel"
+  }
+}

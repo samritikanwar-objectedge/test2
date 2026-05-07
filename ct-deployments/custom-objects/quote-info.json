@@ -1,0 +1,46 @@
+{
+  "container": "atg-quote-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG quoteInfo custom object",
+    "fields": {
+      "agentId": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "expirationDate": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "externalId": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "providerNote": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "rejectionDate": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "rejectionNote": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "requestDate": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      },
+      "requesterNote": {
+        "description": "Property stored in Custom Object 'quote-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Quote Info"
+  }
+}

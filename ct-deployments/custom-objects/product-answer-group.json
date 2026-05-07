@@ -1,0 +1,14 @@
+{
+  "container": "atg-product-answer-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG productAnswerGroup custom object",
+    "fields": {
+      "productKey": {
+        "description": "Property stored in Custom Object 'product-answer-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Product Answer Group"
+  }
+}

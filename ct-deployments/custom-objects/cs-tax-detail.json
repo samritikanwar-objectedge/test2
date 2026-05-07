@@ -1,0 +1,42 @@
+{
+  "container": "atg-cs-tax-detail",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG csTaxDetail custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "jurisdictionDisplayOrder": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "jurisdictionLevel": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "jurisdictionValue": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "taxRate": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "taxTypeId": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      },
+      "zipCode": {
+        "description": "Property stored in Custom Object 'cs-tax-detail'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cs Tax Detail"
+  }
+}

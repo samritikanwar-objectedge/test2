@@ -1,0 +1,90 @@
+{
+  "container": "atg-fiber-feature",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG fiberFeature custom object",
+    "fields": {
+      "broadbandLabelId": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "crmGroup": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "endDate": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "hideFromCustomer": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "includedEquipments": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "includedFeatures": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "includedFeaturesWithQty": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "includedFee": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "includedQty": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "maxQty": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "minQty": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "optionalEquipments": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "optionalFeatures": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "primaryFeature": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "seasonalFeature": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "sellFeatureOn": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "speedDown": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "speedUp": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "startDate": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      },
+      "subGroup": {
+        "description": "Property stored in Custom Object 'fiber-feature'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Fiber Feature"
+  }
+}

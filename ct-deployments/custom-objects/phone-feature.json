@@ -1,0 +1,22 @@
+{
+  "container": "atg-phone-feature",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phoneFeature custom object",
+    "fields": {
+      "displayName": {
+        "description": "Property stored in Custom Object 'phone-feature'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'phone-feature'",
+        "type": "custom_object_field"
+      },
+      "longDescription": {
+        "description": "Property stored in Custom Object 'phone-feature'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone Feature"
+  }
+}

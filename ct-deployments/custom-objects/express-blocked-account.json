@@ -1,0 +1,18 @@
+{
+  "container": "atg-express-blocked-account",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG expressBlockedAccount custom object",
+    "fields": {
+      "accountNumber": {
+        "description": "Property stored in Custom Object 'express-blocked-account'",
+        "type": "custom_object_field"
+      },
+      "lockedTime": {
+        "description": "Property stored in Custom Object 'express-blocked-account'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Express Blocked Account"
+  }
+}

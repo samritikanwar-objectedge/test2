@@ -1,0 +1,26 @@
+{
+  "container": "atg-link-group",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG linkGroup custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'link-group'",
+        "type": "custom_object_field"
+      },
+      "links": {
+        "description": "Property stored in Custom Object 'link-group'",
+        "type": "custom_object_field"
+      },
+      "parentFolder": {
+        "description": "Property stored in Custom Object 'link-group'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'link-group'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Link Group"
+  }
+}

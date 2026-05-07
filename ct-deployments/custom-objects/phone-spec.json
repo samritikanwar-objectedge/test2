@@ -1,0 +1,26 @@
+{
+  "container": "atg-phone-spec",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phoneSpec custom object",
+    "fields": {
+      "comparisonValue": {
+        "description": "Property stored in Custom Object 'phone-spec'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'phone-spec'",
+        "type": "custom_object_field"
+      },
+      "specData": {
+        "description": "Property stored in Custom Object 'phone-spec'",
+        "type": "custom_object_field"
+      },
+      "specValue": {
+        "description": "Property stored in Custom Object 'phone-spec'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone Spec"
+  }
+}

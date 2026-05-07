@@ -1,0 +1,62 @@
+{
+  "container": "atg-ship-item-rel",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG shipItemRel custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "commerceItem": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "highBound": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "highBoundWithFraction": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "lowBound": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "lowBoundWithFraction": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "quantity": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFraction": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "returnedQuantity": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "returnedQuantityWithFraction": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "shippingGroup": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      },
+      "stateDetail": {
+        "description": "Property stored in Custom Object 'ship-item-rel'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Ship Item Rel"
+  }
+}

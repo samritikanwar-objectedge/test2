@@ -1,0 +1,14 @@
+{
+  "container": "atg-phone-storage",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG phoneStorage custom object",
+    "fields": {
+      "phoneStorageSize": {
+        "description": "Property stored in Custom Object 'phone-storage'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Phone Storage"
+  }
+}

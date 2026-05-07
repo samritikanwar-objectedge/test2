@@ -1,0 +1,202 @@
+{
+  "container": "atg-plan",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG plan custom object",
+    "fields": {
+      "administrative": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "allow2YrPoc": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "allowDpp": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "allowOnRestrictedAccounts": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "autoAddedFeatures": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "autopayDiscountFeeCsn": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "billingPlanDescription": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "broadbandLabelId": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "carrier": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "childPlans": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "coverage": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "dataHost": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "dataPasses": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "dataUsage": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "disclaimers": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "extraMinutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "hasInternet": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "hasPooledData": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "includedFeatures": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "isCalendarBilling": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "isComputer": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "isIntRoamingIncld": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "isMMAExclusive": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "isShared": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "itUseOnly": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "keyFeatures": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "localCalling": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "longDistance": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "minutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "mobileToMobileMinutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "nationwideMinutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "nightsAndWeekends": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "numberOfNationalMinutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "numberRegionalMinutes": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "parentPlans": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "planCategory": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "planServicePeriod": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "poolType": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "popularFeatures": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "prepaid": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "relatedFeatures": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "relatedFees": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "sharedPlansDescription": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "similarPlans": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "sprintPricePlan": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "throttling": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "voicePlan": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      },
+      "wirelessDiscounts": {
+        "description": "Property stored in Custom Object 'plan'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Plan"
+  }
+}

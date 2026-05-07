@@ -1,0 +1,58 @@
+{
+  "container": "atg-mail-batch",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG mailBatch custom object",
+    "fields": {
+      "endTime": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "mailingId": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "numBounces": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "numErrors": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "numSent": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "numSkipped": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "numToSend": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "startIdx": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "startTime": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "status": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "summarized": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      },
+      "uniqServerId": {
+        "description": "Property stored in Custom Object 'mail-batch'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Mail Batch"
+  }
+}

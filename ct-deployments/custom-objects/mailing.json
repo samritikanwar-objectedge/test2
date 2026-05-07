@@ -1,0 +1,134 @@
+{
+  "container": "atg-mailing",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG mailing custom object",
+    "fields": {
+      "altTemplate": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "batchExecId": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "batchSize": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "batched": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "bcc": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "cc": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "emailAddresses": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "endTime": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "fillFromTemplate": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "from": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "ignoreContactFatigue": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numBounces": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numErrors": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numSent": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numSkipped": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numSoftBounces": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "numToSend": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "params": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "recipients": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "replyto": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "sendAsHtml": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "sendAsText": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "siteId": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "startTime": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "status": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "subject": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "template": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "trackingData": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      },
+      "uniqServerId": {
+        "description": "Property stored in Custom Object 'mailing'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Mailing"
+  }
+}

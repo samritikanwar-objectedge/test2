@@ -1,0 +1,34 @@
+{
+  "container": "atg-wireless-discounts",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG wirelessDiscounts custom object",
+    "fields": {
+      "billingName": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      },
+      "discountId": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      },
+      "discountName": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      },
+      "discountType": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      },
+      "discountValue": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      },
+      "isGrandFathered": {
+        "description": "Property stored in Custom Object 'wireless-discounts'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Wireless Discounts"
+  }
+}

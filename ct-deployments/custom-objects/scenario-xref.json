@@ -1,0 +1,26 @@
+{
+  "container": "atg-scenario-xref",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG scenarioXref custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'scenario-xref'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'scenario-xref'",
+        "type": "custom_object_field"
+      },
+      "referenceTarget": {
+        "description": "Property stored in Custom Object 'scenario-xref'",
+        "type": "custom_object_field"
+      },
+      "referenceType": {
+        "description": "Property stored in Custom Object 'scenario-xref'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Scenario Xref"
+  }
+}

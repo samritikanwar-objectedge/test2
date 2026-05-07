@@ -1,0 +1,50 @@
+{
+  "container": "atg-scenario-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG scenarioInfo custom object",
+    "fields": {
+      "author": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "creationTime": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "lastModifiedBy": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "migrationInfos": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "modificationTime": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "pdl": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "processStatus": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      },
+      "stateMachineVersion": {
+        "description": "Property stored in Custom Object 'scenario-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Scenario Info"
+  }
+}

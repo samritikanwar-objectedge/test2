@@ -1,0 +1,70 @@
+{
+  "container": "atg-check",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG check custom object",
+    "fields": {
+      "accountType": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "addressLine1": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "addressLine2": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "bankAccountNumber": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "checkName": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "checkType": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "city": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "createDate": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "infoId": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "lastFourSSNDebit": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "purposeType": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "routingNumber": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      },
+      "zipCode": {
+        "description": "Property stored in Custom Object 'check'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Check"
+  }
+}

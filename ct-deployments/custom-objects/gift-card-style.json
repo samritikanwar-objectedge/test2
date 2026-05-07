@@ -1,0 +1,26 @@
+{
+  "container": "atg-gift-card-style",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG giftCardStyle custom object",
+    "fields": {
+      "color": {
+        "description": "Property stored in Custom Object 'gift-card-style'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'gift-card-style'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'gift-card-style'",
+        "type": "custom_object_field"
+      },
+      "style": {
+        "description": "Property stored in Custom Object 'gift-card-style'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Gift Card Style"
+  }
+}

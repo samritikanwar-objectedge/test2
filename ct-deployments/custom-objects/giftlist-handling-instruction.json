@@ -1,0 +1,18 @@
+{
+  "container": "atg-giftlist-handling-instruction",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG giftlistHandlingInstruction custom object",
+    "fields": {
+      "giftlistId": {
+        "description": "Property stored in Custom Object 'giftlist-handling-instruction'",
+        "type": "custom_object_field"
+      },
+      "giftlistItemId": {
+        "description": "Property stored in Custom Object 'giftlist-handling-instruction'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Giftlist Handling Instruction"
+  }
+}

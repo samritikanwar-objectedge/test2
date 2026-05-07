@@ -1,0 +1,14 @@
+{
+  "container": "atg-discovery-platform",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG discoveryPlatform custom object",
+    "fields": {
+      "discoveryPlatformName": {
+        "description": "Property stored in Custom Object 'discovery-platform'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Discovery Platform"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "container": "atg-accessory",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG accessory custom object",
+    "fields": {
+      "accessoryPrice": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "accessoryType": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "accessoryTypeCode": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "contentTabs": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "detailViewsLarge": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "detailViewsThumbs": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "flashHybridMovies": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "flashMovies": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "keyFeatures": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "manualUrl": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "priceDropDescription": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "relatedPhones": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      },
+      "showScratch": {
+        "description": "Property stored in Custom Object 'accessory'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Accessory"
+  }
+}

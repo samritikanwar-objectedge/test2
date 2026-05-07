@@ -1,0 +1,46 @@
+{
+  "container": "atg-module",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG module custom object",
+    "fields": {
+      "associatedCat": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "associatedLinkImages": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "bodytext": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "buttonText": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "buttonUrl": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "header": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "product": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      },
+      "template": {
+        "description": "Property stored in Custom Object 'module'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Module"
+  }
+}

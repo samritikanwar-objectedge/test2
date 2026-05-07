@@ -1,0 +1,26 @@
+{
+  "container": "atg-accessory-bundles",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG accessoryBundles custom object",
+    "fields": {
+      "accessoryPackages": {
+        "description": "Property stored in Custom Object 'accessory-bundles'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'accessory-bundles'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'accessory-bundles'",
+        "type": "custom_object_field"
+      },
+      "relatedDevices": {
+        "description": "Property stored in Custom Object 'accessory-bundles'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Accessory Bundles"
+  }
+}

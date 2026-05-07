@@ -1,0 +1,30 @@
+{
+  "container": "atg-esim-profile",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG esimProfile custom object",
+    "fields": {
+      "channelProfile": {
+        "description": "Property stored in Custom Object 'esim-profile'",
+        "type": "custom_object_field"
+      },
+      "channelType": {
+        "description": "Property stored in Custom Object 'esim-profile'",
+        "type": "custom_object_field"
+      },
+      "esimProfile": {
+        "description": "Property stored in Custom Object 'esim-profile'",
+        "type": "custom_object_field"
+      },
+      "profileType": {
+        "description": "Property stored in Custom Object 'esim-profile'",
+        "type": "custom_object_field"
+      },
+      "profile_type_id": {
+        "description": "Property stored in Custom Object 'esim-profile'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Esim Profile"
+  }
+}

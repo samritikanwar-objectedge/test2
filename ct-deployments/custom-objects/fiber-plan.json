@@ -1,0 +1,26 @@
+{
+  "container": "atg-fiber-plan",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG fiberPlan custom object",
+    "fields": {
+      "includedEquipments": {
+        "description": "Property stored in Custom Object 'fiber-plan'",
+        "type": "custom_object_field"
+      },
+      "includedFeatures": {
+        "description": "Property stored in Custom Object 'fiber-plan'",
+        "type": "custom_object_field"
+      },
+      "optionalEquipments": {
+        "description": "Property stored in Custom Object 'fiber-plan'",
+        "type": "custom_object_field"
+      },
+      "optionalFeatures": {
+        "description": "Property stored in Custom Object 'fiber-plan'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Fiber Plan"
+  }
+}

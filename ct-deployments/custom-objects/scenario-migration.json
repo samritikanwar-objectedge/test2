@@ -1,0 +1,34 @@
+{
+  "container": "atg-scenario-migration",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG scenarioMigration custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      },
+      "migrationInfo": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      },
+      "newModificationTime": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      },
+      "oldModificationTime": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      },
+      "segmentNames": {
+        "description": "Property stored in Custom Object 'scenario-migration'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Scenario Migration"
+  }
+}

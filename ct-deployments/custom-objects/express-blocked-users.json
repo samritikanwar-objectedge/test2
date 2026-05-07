@@ -1,0 +1,18 @@
+{
+  "container": "atg-express-blocked-users",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG expressBlockedUsers custom object",
+    "fields": {
+      "lockedTime": {
+        "description": "Property stored in Custom Object 'express-blocked-users'",
+        "type": "custom_object_field"
+      },
+      "mobileNumber": {
+        "description": "Property stored in Custom Object 'express-blocked-users'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Express Blocked Users"
+  }
+}

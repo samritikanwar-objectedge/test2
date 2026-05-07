@@ -1,0 +1,22 @@
+{
+  "container": "atg-terms-and-conds",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG termsAndConds custom object",
+    "fields": {
+      "bodyVersion": {
+        "description": "Property stored in Custom Object 'terms-and-conds'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'terms-and-conds'",
+        "type": "custom_object_field"
+      },
+      "termsCondsName": {
+        "description": "Property stored in Custom Object 'terms-and-conds'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Terms And Conds"
+  }
+}

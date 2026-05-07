@@ -1,0 +1,14 @@
+{
+  "container": "atg-express-login-record",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG expressLoginRecord custom object",
+    "fields": {
+      "mobileNumber": {
+        "description": "Property stored in Custom Object 'express-login-record'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Express Login Record"
+  }
+}

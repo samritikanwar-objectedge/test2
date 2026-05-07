@@ -1,0 +1,30 @@
+{
+  "container": "atg-manufacturer",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG manufacturer custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'manufacturer'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'manufacturer'",
+        "type": "custom_object_field"
+      },
+      "email": {
+        "description": "Property stored in Custom Object 'manufacturer'",
+        "type": "custom_object_field"
+      },
+      "long_description": {
+        "description": "Property stored in Custom Object 'manufacturer'",
+        "type": "custom_object_field"
+      },
+      "productType": {
+        "description": "Property stored in Custom Object 'manufacturer'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Manufacturer"
+  }
+}

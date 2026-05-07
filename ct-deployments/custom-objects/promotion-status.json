@@ -1,0 +1,30 @@
+{
+  "container": "atg-promotion-status",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG promotionStatus custom object",
+    "fields": {
+      "coupons": {
+        "description": "Property stored in Custom Object 'promotion-status'",
+        "type": "custom_object_field"
+      },
+      "expirationDate": {
+        "description": "Property stored in Custom Object 'promotion-status'",
+        "type": "custom_object_field"
+      },
+      "grantedDate": {
+        "description": "Property stored in Custom Object 'promotion-status'",
+        "type": "custom_object_field"
+      },
+      "numUses": {
+        "description": "Property stored in Custom Object 'promotion-status'",
+        "type": "custom_object_field"
+      },
+      "promotion": {
+        "description": "Property stored in Custom Object 'promotion-status'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Promotion Status"
+  }
+}

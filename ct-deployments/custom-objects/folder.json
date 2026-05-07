@@ -1,0 +1,38 @@
+{
+  "container": "atg-folder",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG folder custom object",
+    "fields": {
+      "description": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "endDate": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "parentFolder": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "path": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      },
+      "startDate": {
+        "description": "Property stored in Custom Object 'folder'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Folder"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "container": "atg-gift-certificate-status",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG giftCertificateStatus custom object",
+    "fields": {
+      "authorizationExpiration": {
+        "description": "Property stored in Custom Object 'gift-certificate-status'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Gift Certificate Status"
+  }
+}

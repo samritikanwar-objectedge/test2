@@ -1,0 +1,22 @@
+{
+  "container": "atg-recently-viewed-apps",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG RecentlyViewedApps custom object",
+    "fields": {
+      "ApplicationId": {
+        "description": "Property stored in Custom Object 'recently-viewed-apps'",
+        "type": "custom_object_field"
+      },
+      "TimeStamp": {
+        "description": "Property stored in Custom Object 'recently-viewed-apps'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'recently-viewed-apps'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Recently Viewed Apps"
+  }
+}

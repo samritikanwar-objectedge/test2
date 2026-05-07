@@ -1,0 +1,26 @@
+{
+  "container": "atg-scenario-deletion",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG scenarioDeletion custom object",
+    "fields": {
+      "id": {
+        "description": "Property stored in Custom Object 'scenario-deletion'",
+        "type": "custom_object_field"
+      },
+      "modificationTime": {
+        "description": "Property stored in Custom Object 'scenario-deletion'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'scenario-deletion'",
+        "type": "custom_object_field"
+      },
+      "segmentNames": {
+        "description": "Property stored in Custom Object 'scenario-deletion'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Scenario Deletion"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "container": "atg-module-category",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG moduleCategory custom object",
+    "fields": {
+      "backgroundImage": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "buttonImage": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "buttonText": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "buttonUrl": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "categoryImage": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "genericContentItem": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "layer0Image": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "layer1Image": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "layer2Image": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "layer3Image": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "layer4Image": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "price": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "slidingTexts": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "subTitle": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "template": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      },
+      "title": {
+        "description": "Property stored in Custom Object 'module-category'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Module Category"
+  }
+}

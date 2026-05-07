@@ -1,0 +1,26 @@
+{
+  "container": "atg-gift-card",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG giftCard custom object",
+    "fields": {
+      "csn": {
+        "description": "Property stored in Custom Object 'gift-card'",
+        "type": "custom_object_field"
+      },
+      "price": {
+        "description": "Property stored in Custom Object 'gift-card'",
+        "type": "custom_object_field"
+      },
+      "tutorials": {
+        "description": "Property stored in Custom Object 'gift-card'",
+        "type": "custom_object_field"
+      },
+      "virtual": {
+        "description": "Property stored in Custom Object 'gift-card'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Gift Card"
+  }
+}

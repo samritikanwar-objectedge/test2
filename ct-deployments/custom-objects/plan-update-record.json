@@ -1,0 +1,26 @@
+{
+  "container": "atg-plan-update-record",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG planUpdateRecord custom object",
+    "fields": {
+      "date_stamp": {
+        "description": "Property stored in Custom Object 'plan-update-record'",
+        "type": "custom_object_field"
+      },
+      "subscriptionId": {
+        "description": "Property stored in Custom Object 'plan-update-record'",
+        "type": "custom_object_field"
+      },
+      "successFlag": {
+        "description": "Property stored in Custom Object 'plan-update-record'",
+        "type": "custom_object_field"
+      },
+      "userId": {
+        "description": "Property stored in Custom Object 'plan-update-record'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Plan Update Record"
+  }
+}

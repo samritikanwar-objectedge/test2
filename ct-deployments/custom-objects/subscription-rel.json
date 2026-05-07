@@ -1,0 +1,126 @@
+{
+  "container": "atg-subscription-rel",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG subscriptionRel custom object",
+    "fields": {
+      "accountNumber": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "accountPassword": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "activationFee": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "activationFees": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "addedFeatures": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "addedPhone": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "addedPlan": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "addedUntenderedFees": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "currentPlan": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "lineId": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "mobileNumber": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "nameOnAccount": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "npanxx": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "numberActive": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "numberWithPreviousCarrier": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "phoneNumberToTransfer": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "previousCarrier": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "removedFeatures": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "removedPhone": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "removedPlan": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "removedUntenderedFees": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "subscriptionId": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "transferNumber": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "typeOfTransfer": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "untenderedFees": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "updatedFeatures": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "updatedPhone": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "updatedPlan": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      },
+      "upgrade": {
+        "description": "Property stored in Custom Object 'subscription-rel'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Subscription Rel"
+  }
+}

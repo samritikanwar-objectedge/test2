@@ -1,0 +1,38 @@
+{
+  "container": "atg-amount-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG amountInfo custom object",
+    "fields": {
+      "adjustments": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "amount": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "amountIsFinal": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "currencyCode": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "discounted": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "finalReasonCode": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'amount-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Amount Info"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "container": "atg-accessory-type",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG accessoryType custom object",
+    "fields": {
+      "code": {
+        "description": "Property stored in Custom Object 'accessory-type'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'accessory-type'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'accessory-type'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'accessory-type'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Accessory Type"
+  }
+}

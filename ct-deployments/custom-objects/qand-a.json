@@ -1,0 +1,26 @@
+{
+  "container": "atg-qand-a",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG QandA custom object",
+    "fields": {
+      "answerChoices": {
+        "description": "Property stored in Custom Object 'qand-a'",
+        "type": "custom_object_field"
+      },
+      "displayType": {
+        "description": "Property stored in Custom Object 'qand-a'",
+        "type": "custom_object_field"
+      },
+      "question": {
+        "description": "Property stored in Custom Object 'qand-a'",
+        "type": "custom_object_field"
+      },
+      "questionInfo": {
+        "description": "Property stored in Custom Object 'qand-a'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Qand A"
+  }
+}

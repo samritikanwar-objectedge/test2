@@ -1,0 +1,26 @@
+{
+  "container": "atg-link-image",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG linkImage custom object",
+    "fields": {
+      "altText": {
+        "description": "Property stored in Custom Object 'link-image'",
+        "type": "custom_object_field"
+      },
+      "linkImage": {
+        "description": "Property stored in Custom Object 'link-image'",
+        "type": "custom_object_field"
+      },
+      "linkUrl": {
+        "description": "Property stored in Custom Object 'link-image'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'link-image'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Link Image"
+  }
+}

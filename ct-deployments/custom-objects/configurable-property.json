@@ -1,0 +1,34 @@
+{
+  "container": "atg-configurable-property",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG configurableProperty custom object",
+    "fields": {
+      "configurationOptions": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      },
+      "configuratorId": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      },
+      "description": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      },
+      "displayName": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      },
+      "itemAcl": {
+        "description": "Property stored in Custom Object 'configurable-property'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Configurable Property"
+  }
+}

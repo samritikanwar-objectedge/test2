@@ -1,0 +1,50 @@
+{
+  "container": "atg-pricing-adjustment",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG pricingAdjustment custom object",
+    "fields": {
+      "adjustment": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "adjustmentDescription": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "coupon": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "manualPricingAdjustment": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "pricingModel": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "pricingModelGroupIndex": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "pricingModelIndex": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "quantityAdjusted": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "quantityWithFractionAdjusted": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      },
+      "totalAdjustment": {
+        "description": "Property stored in Custom Object 'pricing-adjustment'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Pricing Adjustment"
+  }
+}

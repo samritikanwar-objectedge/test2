@@ -1,0 +1,14 @@
+{
+  "container": "atg-filterable-phone-category",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG filterablePhoneCategory custom object",
+    "fields": {
+      "categoryName": {
+        "description": "Property stored in Custom Object 'filterable-phone-category'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Filterable Phone Category"
+  }
+}

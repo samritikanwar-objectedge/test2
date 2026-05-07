@@ -1,0 +1,22 @@
+{
+  "container": "atg-cc-ship-rel",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG ccShipRel custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'cc-ship-rel'",
+        "type": "custom_object_field"
+      },
+      "costCenter": {
+        "description": "Property stored in Custom Object 'cc-ship-rel'",
+        "type": "custom_object_field"
+      },
+      "shippingGroup": {
+        "description": "Property stored in Custom Object 'cc-ship-rel'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Cc Ship Rel"
+  }
+}

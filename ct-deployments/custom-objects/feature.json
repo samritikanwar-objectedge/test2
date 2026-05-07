@@ -1,0 +1,94 @@
+{
+  "container": "atg-feature",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG feature custom object",
+    "fields": {
+      "administrative": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "carrier": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "childFeatures": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "dataBucketSize": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "dataBucketUnit": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "dataFeature": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "dataPasses": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "disclaimers": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "featureType": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "featureTypeCode": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "hasDataback": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "hasPooledData": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "isMMAExclusive": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "isProratable": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "itUseOnly": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "maxSharedLines": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "minSharedLines": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "parentFeatures": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "plans": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "relatedPhones": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      },
+      "voiceFeature": {
+        "description": "Property stored in Custom Object 'feature'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Feature"
+  }
+}

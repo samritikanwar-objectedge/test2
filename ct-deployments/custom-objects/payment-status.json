@@ -1,0 +1,34 @@
+{
+  "container": "atg-payment-status",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG paymentStatus custom object",
+    "fields": {
+      "amount": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      },
+      "errorMessage": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      },
+      "transactionId": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      },
+      "transactionSuccess": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      },
+      "transactionTimestamp": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      },
+      "type": {
+        "description": "Property stored in Custom Object 'payment-status'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Payment Status"
+  }
+}

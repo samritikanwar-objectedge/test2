@@ -1,0 +1,30 @@
+{
+  "container": "atg-app-developer-contact",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG appDeveloperContact custom object",
+    "fields": {
+      "companyName": {
+        "description": "Property stored in Custom Object 'app-developer-contact'",
+        "type": "custom_object_field"
+      },
+      "emailAddress": {
+        "description": "Property stored in Custom Object 'app-developer-contact'",
+        "type": "custom_object_field"
+      },
+      "firstName": {
+        "description": "Property stored in Custom Object 'app-developer-contact'",
+        "type": "custom_object_field"
+      },
+      "lastName": {
+        "description": "Property stored in Custom Object 'app-developer-contact'",
+        "type": "custom_object_field"
+      },
+      "phoneNumber": {
+        "description": "Property stored in Custom Object 'app-developer-contact'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "App Developer Contact"
+  }
+}

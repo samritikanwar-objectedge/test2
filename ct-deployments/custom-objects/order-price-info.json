@@ -1,0 +1,38 @@
+{
+  "container": "atg-order-price-info",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG orderPriceInfo custom object",
+    "fields": {
+      "manualAdjustmentTotal": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "nonTaxableShippingItemsSubtotalPriceInfos": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "rawSubtotal": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "shipping": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "shippingItemsSubtotalPriceInfos": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "tax": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      },
+      "taxableShippingItemsSubtotalPriceInfos": {
+        "description": "Property stored in Custom Object 'order-price-info'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Order Price Info"
+  }
+}

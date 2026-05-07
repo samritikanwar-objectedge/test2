@@ -1,0 +1,66 @@
+{
+  "container": "atg-individual-scenario",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG individualScenario custom object",
+    "fields": {
+      "contextBooleans": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "contextDates": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "contextDoubles": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "contextLongs": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "contextStrings": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "createdByRecurringEvent": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "creatorId": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "expirationTime": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "modificationTime": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "processName": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "segmentName": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "state": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      },
+      "subject": {
+        "description": "Property stored in Custom Object 'individual-scenario'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Individual Scenario"
+  }
+}

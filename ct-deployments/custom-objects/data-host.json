@@ -1,0 +1,18 @@
+{
+  "container": "atg-data-host",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG dataHost custom object",
+    "fields": {
+      "dataHostCode": {
+        "description": "Property stored in Custom Object 'data-host'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'data-host'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Data Host"
+  }
+}

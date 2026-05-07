@@ -1,0 +1,18 @@
+{
+  "container": "atg-dss-server-id",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG dssServerId custom object",
+    "fields": {
+      "serverId": {
+        "description": "Property stored in Custom Object 'dss-server-id'",
+        "type": "custom_object_field"
+      },
+      "serverType": {
+        "description": "Property stored in Custom Object 'dss-server-id'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Dss Server Id"
+  }
+}

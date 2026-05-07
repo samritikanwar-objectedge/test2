@@ -1,0 +1,42 @@
+{
+  "container": "atg-package-options",
+  "key": "schema",
+  "value": {
+    "description": "Schema for ATG packageOptions custom object",
+    "fields": {
+      "highlightHtml": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "id": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "name": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "packageImage": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "primaryPhoneAccessoryGrp": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "primaryPlanFeatureGrp": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "secondaryPhoneAccessoryGrp": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      },
+      "secondaryPlanFeatureGrp": {
+        "description": "Property stored in Custom Object 'package-options'",
+        "type": "custom_object_field"
+      }
+    },
+    "name": "Package Options"
+  }
+}
